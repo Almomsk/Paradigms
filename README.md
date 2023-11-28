@@ -9,7 +9,7 @@
 
 Написать точно такую же процедуру, но в декларативном стиле
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/imperative_and_declarative_paradigms)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_1)
 
 ### Урок 2.  Структурное и процедурное программирование на практике
 
@@ -40,7 +40,7 @@
 
 1 * 9 = 9
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/structural_and_procedural_programming)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_2)
 
 
 ### Урок 3.  ООП на практике
@@ -66,7 +66,7 @@
 терминал с вашего компьютера.
 
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/oop)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_3)
 
 
 ### Урок 4.  Функциональное программирование
@@ -88,7 +88,7 @@
 ![Формула Корреляции Пирсона](https://i.ibb.co/pWM0zXK/2023-09-18-08-13-09.png)
 
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/functional_programming)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_4)
 
 
 ### Урок 5.  Логическое программирование
@@ -105,7 +105,7 @@
 элементов списка. На вход подаётся целочисленный массив.
 На выходе - сумма элементов массива.
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/logic_programming)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_5)
 
 
 ### Урок 6.  Парадигмы программирования на практике. Подведение итогов курса
@@ -117,4 +117,4 @@
 число. На выходе - индекс элемента или -1, в случае если искомого
 элемента нет в массиве.
 
-[Реализация](https://github.com/JuliaRyzhova/Paradigms/tree/main/final_work)
+[Реализация](https://github.com/Almomsk/Paradigms/tree/main/HW_seminar_6)
